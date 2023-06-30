@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "username": "Wilfredo",
+  "email": "will@gmail.com",
+  "roles": [
+    "ROLE_ADMIN"
+  ],
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJXaWxmcmVkbyIsImlhdCI6MTY4ODEwNzY1NSwiZXhwIjoxNjg4NzEyNDU1fQ.a0CpwdvSl1C-iGIp27Ug7n_qIZf_NdEGKBv-7fwsJno"
+}
